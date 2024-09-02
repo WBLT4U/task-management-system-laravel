@@ -64,5 +64,14 @@ php artisan serve
 
 Open http://localhost:8000 in your browser to access the application.
 
+License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Contact Information
+For any inquiries or support, feel free to reach out:
+
+Author: Taofiq Abdulsalam
+Email: taofiqabdulsalam48@gmail.com
 
 
