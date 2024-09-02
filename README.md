@@ -66,7 +66,7 @@ Open http://localhost:8000 in your browser to access the application.
 
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Contact Information
 For any inquiries or support, feel free to reach out:
