@@ -3,7 +3,7 @@
 
 @section('content')
 <nav class="mb-4">
-<a href="{{ route('tasks.create') }}" class="link">Add Your Book!</a>
+<a href="{{ route('tasks.create') }}" class="link">Add Your Task!</a>
   </nav>
 @forelse ($tasks as $task)
     <div>
