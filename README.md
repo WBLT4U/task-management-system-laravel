@@ -24,7 +24,7 @@ To set up the project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/task-management-system.git
+git clone https://github.com/WBLT4U/task-management-system.git
 
 Navigate to the project directory:
 
