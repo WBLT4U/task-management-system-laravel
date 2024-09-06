@@ -12,8 +12,6 @@ Before setting up the project, ensure you have the following installed:
 
 PHP (version 8.0 or later)
 
-Composer
-
 MySQL or any other supported database
 
 Node.js and npm (for managing frontend dependencies)
@@ -31,8 +29,6 @@ Navigate to the project directory:
 cd task-management-system
 
 Install PHP dependencies using Composer:
-
-composer install
 
 composer install
 
